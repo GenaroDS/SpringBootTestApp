@@ -1,2 +1,2 @@
 # SpringBootTestApp
-First Spring Boot App... Testing.
+Testing first spring boot app, made by following a youtube video.
